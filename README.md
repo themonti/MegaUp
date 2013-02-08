@@ -17,7 +17,7 @@ Instalación de librerías:
     1.  sudo pip install pycrypto
     2.  sudo pip install progressbar
 
- * Para instalar pip
+ * Para instalar pip: 
  	sudo easy_install pip
     
 
