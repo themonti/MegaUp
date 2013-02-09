@@ -1,7 +1,7 @@
 MegaUp beta.0.1
 ===============
 
-Utilidad de línea de comando para SUDIR ficheros a mega.co.nz
+Utilidad de línea de comando para SUBIR ficheros a mega.co.nz
 
 Instrucciones (MAC/LINUX):
 --------------------------
